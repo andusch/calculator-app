@@ -18,3 +18,5 @@ expo start
 
 
 ## Thank you for reading this!
+
+Leave a star if you like it!
